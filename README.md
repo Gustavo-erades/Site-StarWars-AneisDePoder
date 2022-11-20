@@ -8,3 +8,5 @@ Cotribuíram com esse site:
   <br>Gustavo Êrades</a>
 <a href="https://github.com/Aluno18"> 
   <br>Victor Samuel </a>
+<a href="https://github.com/SytlerNaraki"> 
+  <br>Vinícius Fernandes</a>
